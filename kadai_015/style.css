@@ -1,0 +1,26 @@
+body{
+    font-style: "Arial","Meiryo",sans-selif;
+    font-size:20px;
+    text-align: center;
+
+}
+
+.blue{
+    color:skyblue;
+}
+
+.pink{
+    color: rgb(255,192,203)
+}
+
+#decoration{
+    font-family:"Josefin Sans",sans-serif;
+    font-size:2rem;
+    letter-spacing:1.2em;
+    text-shadow:1px 1px 2px gray;
+    text-decoration:underline solid 3px rgb(115,115,114) 
+}
+
+#basic p{
+    font-weight:bold;
+}
